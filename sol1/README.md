@@ -3,10 +3,10 @@
 
 ## build 결과
 
-![ex1_1]./ex1_1.png
+![ex1_1](./ex1_1.png)
 
 
 
 ## Artifactory 전송 결과
 
-![ex1_2]./ex1_2.png
+![ex1_2](./ex1_2.png)
